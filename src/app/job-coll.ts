@@ -27,7 +27,7 @@ export class JobColl {
             new Job("Cashier/Customer Service", "Soma", "While working for Soma, I worked with customers to ensure they got what they requested and tried to upsell. "+
                 "I would take their measurements if getting undergarments and alert them of any sales that the store might be having. "+
                 "I would also try to sell the on the idea of a gift card for friends and family.", ['detail-orientation','communication', 'sales', 'customer service', 'coordinate with others'], 
-                "https://www.soma.com", "2022-11-10", "2023-1-10", "Ashley or James", 7),
+                "https://www.soma.com", "2022-11-10", "2023-1-10", "Holly", 7),
             new Job("Prep Cook/Dishwasher", "Nordy's", "At Nordy's I would be required to work with the cooks and the bussers "+
                 "to ensure efficient use of water and my time", ['wash dishes','clean', 'food prep', 'cook'], "http://www.nordysbbq.com/", 
                 "2021-12-15", "2022-06-10", "Nordy",8),
